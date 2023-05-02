@@ -4,8 +4,18 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Apr 2023 18:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 20:06:31 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[API-Security]]></title>
+            <description><![CDATA[Чеклист наиболее важных контрмер по безопасности при разработке, тестировании и выпуске вашего API.]]></description>
+            <link>/posts/API-Security</link>
+            <guid isPermaLink="true">/posts/API-Security</guid>
+            <category><![CDATA[API]]></category>
+            <category><![CDATA[Security]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Mon, 01 May 2023 20:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Markdown Examples]]></title>
             <description><![CDATA[View examples of all possible Markdown options.]]></description>
