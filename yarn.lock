@@ -3364,6 +3364,11 @@
   dependencies:
     "any-promise" "^1.0.0"
 
+"three@^0.152.2":
+  "integrity" "sha512-Ff9zIpSfkkqcBcpdiFo2f35vA9ZucO+N8TNacJOqaEE6DrB0eufItVMib8bK8Pcju/ZNT6a7blE1GhTpkdsILw=="
+  "resolved" "https://registry.npmjs.org/three/-/three-0.152.2.tgz"
+  "version" "0.152.2"
+
 "through@^2.3.8":
   "integrity" "sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU= sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg=="
   "resolved" "https://registry.npmjs.org/through/-/through-2.3.8.tgz"

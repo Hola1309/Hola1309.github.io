@@ -1,0 +1,23 @@
+---
+type: page
+title: Test
+date: 10
+---
+
+# Rei000
+
+ 
+import { useState } from 'react'
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+
+export function Counter({ children }) {
+  const [count, setCount] = useState(0)
+  return <button onClick={() => setCount(count + 1)}>
+    {children}{count}
+  </button>
+}
+
+<Counter>**Clicks**: </Counter>
